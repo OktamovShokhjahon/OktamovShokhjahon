@@ -8,6 +8,10 @@
 
 ###
 
+## :trophy: kncoder's Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktamovshokhjahon&theme=github_dark) 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
