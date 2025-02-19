@@ -107,6 +107,6 @@
     <img src="https://komarev.com/ghpvc/?username=oktamovshokhjahon">
 </a>
     <a href="https://github.com/oktamovshokhjahon?tab=followers">
-        <img src="https://img.shields.io/github/followers/itkncoder?label=Followers&style=social" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/oktamovshokhjahon?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
